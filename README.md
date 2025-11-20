@@ -14,21 +14,6 @@ I specialize in the **React ecosystem**, but my passion lies in the intersection
 
 ---
 
-#### 🛠️ Technical Stack
-
-**Frontend & UI**
-- **TypeScript** — For type-safe, maintainable code.
-- **Next.js 14** — Utilizing App Router and Server Components for performance.
-- **React** — Building interactive and responsive UIs.
-- **Tailwind CSS & shadcn/ui** — Rapid UI development with a focus on accessibility.
-
-**Backend & Infrastructure**
-- **Prisma ORM** — Typesafe database modeling and access.
-- **PostgreSQL** — Relational data storage (via Supabase).
-- **Node.js** — Scripting data synchronization and background workers.
-
----
-
 #### 🔭 Current Major Project
 
 **[FPL Analytics Platform](https://github.com/Sukhrobv/fpl-platform)**
